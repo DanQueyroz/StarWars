@@ -1,5 +1,5 @@
 # Repositótio de Teste
 
-![./teste-git.png](Teste Git)
+![Teste Git](teste-git.png)
 
 Repositório para aprendizado da ferramenta GIT e servidor Github
