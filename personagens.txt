@@ -2,3 +2,6 @@ Luke Skywalker
 Dart Vader
 Kenobil
 Yoda
+
+Rey
+Finn
